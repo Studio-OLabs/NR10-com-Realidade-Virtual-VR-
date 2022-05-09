@@ -5,4 +5,5 @@ absorção do conteúdo da NR-10 e a experiência do colaborador no VR.
 
 ![NR10 em VR](https://user-images.githubusercontent.com/104942153/167152501-778422d3-ec52-4892-bca8-78a20b104a3b.PNG)
 
+VIDEO YouTube: [Tutorial] Movement in mobile VR: Look Walk
 https://youtu.be/kBTn2pGwZUk
